@@ -15,3 +15,6 @@ A real-time password validation tool that checks password strength as the user t
 
 ## Purpose
 Built to practice regular expressions, DOM manipulation, and real-time input validation.
+
+## 🔗 Live Demo
+(https://japhet996sunday-cell.github.io/real-time-password-checker/) 
