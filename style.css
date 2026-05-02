@@ -23,7 +23,7 @@ input {
     color: green;
 }
 
-/* ===== CENTER CONTENT (optional improvement) ===== */
+/* ===== CENTER CONTENT ===== */
 .container {
     max-width: 400px;
     margin: auto;
