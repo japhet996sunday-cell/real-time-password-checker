@@ -18,3 +18,6 @@ Built to practice regular expressions, DOM manipulation, and real-time input val
 
 ## 🔗 Live Demo
 https://japhet996sunday-cell.github.io/real-time-password-checker/
+
+## 📂 Repository Link
+https://github.com/japhet996sunday-cell/real-time-password-checker
